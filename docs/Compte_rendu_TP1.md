@@ -60,7 +60,3 @@ Nous préparerions dès le départ une procédure d'installation courte, vérifi
 | Ali Mouda | Création du projet `sentiment-app`, configuration de l’environnement Python, initialisation du dépôt Git et organisation des dossiers. |
 | Sara El Asmar | Analyse du besoin métier, rédaction des fiches de cadrage et définition des objectifs du projet. |
 | Chaimae Labzae | Préparation de la structure documentaire, vérification des fichiers de configuration et participation aux tests initiaux. |
-
-## Outils d'aide à la rédaction
-
-ChatGPT a servi à structurer et reformuler le compte rendu ; les éléments techniques et les contributions doivent être vérifiés par l’équipe avant remise.

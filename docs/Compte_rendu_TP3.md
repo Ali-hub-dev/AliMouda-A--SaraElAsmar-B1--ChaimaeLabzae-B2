@@ -68,7 +68,3 @@ Nous ajouterions des tests de bout en bout pour l'import CSV, mesurerions le nom
 | Ali Mouda | Installation du kit TP3, configuration de Streamlit et lancement de l’application. |
 | Sara El Asmar | Conception fonctionnelle des trois onglets : avis individuel, fichier CSV et explication du modèle. |
 | Chaimae Labzae | Intégration du seuil d’incertitude, vérification des tests automatisés et documentation de l’interface. |
-
-## Outils d'aide à la rédaction
-
-ChatGPT a servi au dépannage de l'installation Streamlit et à la rédaction structurée ; le fonctionnement de l'interface et les 45 tests ont été vérifiés sur le poste de développement.

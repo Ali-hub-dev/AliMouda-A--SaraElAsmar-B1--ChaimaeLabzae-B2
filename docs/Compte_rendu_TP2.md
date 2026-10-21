@@ -80,7 +80,3 @@ Nous enregistrerions systématiquement les métriques et les exemples d'erreurs 
 | Ali Mouda | Installation du kit TP2, génération du jeu de démonstration et exécution des scripts d’entraînement. |
 | Sara El Asmar | Préparation des données, analyse des métriques et interprétation de la matrice de confusion. |
 | Chaimae Labzae | Vérification des tests automatisés, analyse des erreurs de prédiction et rédaction de la documentation du TP2. |
-
-## Outils d'aide à la rédaction
-
-ChatGPT a aidé à comprendre les erreurs de tests et à structurer ce compte rendu ; les métriques et exemples doivent être vérifiés sur les sorties du projet.
