@@ -1,0 +1,22 @@
+text,attendu,difficulte,erreur_connue
+"Excellent produit, je suis très satisfait",POSITIVE,,
+Service rapide et efficace,POSITIVE,,
+"Très bonne qualité, je recommande",POSITIVE,,
+Une expérience formidable,POSITIVE,,
+Le produit fonctionne parfaitement,POSITIVE,,"Prediction incorrecte du modele, erreur observee et documentee au TP4"
+Très mauvais service,NEGATIVE,,"Prediction incorrecte du modele, erreur observee et documentee au TP4"
+Produit défectueux et inutilisable,NEGATIVE,,
+Je suis extrêmement déçu,NEGATIVE,,"Prediction incorrecte du modele, erreur observee et documentee au TP4"
+Livraison catastrophique,NEGATIVE,,"Prediction incorrecte du modele, erreur observee et documentee au TP4"
+"Qualité médiocre, à éviter",NEGATIVE,,"Prediction incorrecte du modele, erreur observee et documentee au TP4"
+Le produit est arrivé rapidement,POSITIVE,,"Prediction incorrecte du modele, erreur observee et documentee au TP4"
+Je regrette cet achat,NEGATIVE,,"Prediction incorrecte du modele, erreur observee et documentee au TP4"
+Je ne suis pas déçu de mon achat,POSITIVE,"negation, ironie ou avis mixte",
+Ce produit n'est pas mauvais,POSITIVE,"negation, ironie ou avis mixte","Prediction incorrecte du modele, erreur observee et documentee au TP4"
+"Super, encore une panne après deux jours !",NEGATIVE,"negation, ironie ou avis mixte",
+Le produit est bon mais la livraison est horrible,NEGATIVE,"negation, ironie ou avis mixte","Prediction incorrecte du modele, erreur observee et documentee au TP4"
+Pas mal du tout,POSITIVE,"negation, ironie ou avis mixte","Prediction incorrecte du modele, erreur observee et documentee au TP4"
+Je pensais que ce serait mieux,NEGATIVE,"negation, ironie ou avis mixte","Prediction incorrecte du modele, erreur observee et documentee au TP4"
+"Quelle merveille, il ne fonctionne déjà plus",NEGATIVE,"negation, ironie ou avis mixte",
+Le service est lent mais le personnel est sympathique,POSITIVE,"negation, ironie ou avis mixte",
+Je ne recommande absolument pas ce produit,NEGATIVE,"negation, ironie ou avis mixte","Prediction incorrecte du modele, erreur observee et documentee au TP4"
