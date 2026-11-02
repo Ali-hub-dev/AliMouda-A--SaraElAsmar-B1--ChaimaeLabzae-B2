@@ -58,3 +58,8 @@
 | --- | --- |
 | [Nom 1] | |
 | [Nom 2] | |
+
+## Outils d'aide à la rédaction
+
+> Si vous avez utilisé un assistant d'IA : pour quoi faire, et ce que vous avez vérifié vous-même.
+> Une phrase suffit. C'est autorisé ; le cacher ne l'est pas.

@@ -28,36 +28,13 @@ Le fichier `models/metrics.json` doit être conservé dans Git pour tracer les p
 
 La commande `python src\make_demo.py` a produit **290 avis**, dont **145 positifs et 145 négatifs** ; le jeu contient **100 avis mitigés et 30 neutres**, volontairement difficiles. Le découpage de référence est de 80 % pour l'entraînement et 20 % pour le test. Le pipeline associe une vectorisation du texte et un classificateur ; la séparation doit précéder la vectorisation pour éviter la fuite de données.
 
-L'entraînement sur Allociné a également été réalisé, comme l'indique la réussite des **42 tests du TP2**. Cependant, les sorties chiffrées de `train.py`, `evaluate.py` et `models/metrics.json` n'ont pas été transmises : il faut donc les reporter avant remise.
+Les mesures vérifiées le 28/10/2026 concernent le modèle de démonstration présent : 232 avis d'entraînement et 58 de test, F1 macro 0,8790, exactitude 0,8793 et rappel négatif 0,9310. Aucune mesure Allociné conservée ne permet de confirmer cet entraînement ; ses résultats ne sont donc pas inventés.
 
-| Jeu | Avis | Vocabulaire | F1 macro | Rappel négatif |
-| --- | ---: | ---: | ---: | ---: |
-| Démonstration | 290 | **À relever** | **À relever** | **À calculer** |
-| Allociné | 20 000 (jeu prévu) | **À relever** | **À relever** | **À calculer** |
+Matrice de confusion (ordre négatif, positif) : [[27, 2], [5, 24]]. Sur 29 négatifs, 27 sont correctement reconnus et 2 manqués. Sur 29 positifs, 24 sont reconnus et 5 classés négatifs.
 
-**Exactitude, démonstration :** à relever.  
-**Exactitude, Allociné :** à relever.
+## 4. Analyse des erreurs
 
-**Matrice de confusion issue de votre exécution :**
-
-```text
-                  Prédit négatif   Prédit positif
-Réel négatif          [   ]             [   ]
-Réel positif          [   ]             [   ]
-```
-
-**Commentaire ligne 1 :** parmi les avis réellement négatifs, indiquer ceux correctement détectés et ceux classés à tort positifs.  
-**Commentaire ligne 2 :** parmi les avis réellement positifs, indiquer ceux classés à tort négatifs et ceux correctement détectés.
-
-## 4. L'analyse des erreurs
-
-Le jeu de démonstration comporte des avis mitigés avec des changements de sentiment. Une représentation en sac de mots peut confondre « bon puis mauvais » et « mauvais puis bon » puisqu'elle ne conserve pas l'ordre des mots. Les avis négatifs prédits positifs sont particulièrement préoccupants pour la relation client.
-
-**Nombre réel d'erreurs :** à relever dans `python src\evaluate.py`.  
-**Exemple d'un avis effectivement mal classé :** à copier depuis les sorties d'évaluation.  
-**Classe réelle / prédite :** à compléter.
-
-Une amélioration possible serait un modèle sensible à l'ordre et au contexte des mots. La priorité du TP2 reste toutefois la reproductibilité et la qualité de l'évaluation, non la recherche d'un modèle complexe.
+Sept erreurs sont observées. « Commande jamais reçue et remboursement en attente au début, sauf que ensuite je recommande… » est réellement positif et prédit négatif. Les avis mitigés révèlent la difficulté du sac de mots à comprendre quel sentiment conclut la phrase. Le détail reproductible figure dans docs/semaine2.md et python src/evaluate.py.
 
 ## 5. L'interface et le seuil d'incertitude
 
@@ -80,3 +57,8 @@ Nous enregistrerions systématiquement les métriques et les exemples d'erreurs 
 | Ali Mouda | Installation du kit TP2, génération du jeu de démonstration et exécution des scripts d’entraînement. |
 | Sara El Asmar | Préparation des données, analyse des métriques et interprétation de la matrice de confusion. |
 | Chaimae Labzae | Vérification des tests automatisés, analyse des erreurs de prédiction et rédaction de la documentation du TP2. |
+
+
+## Contrôle Allociné réalisé le 28/10/2026
+
+Entraînement indépendant terminé sur 20 000 avis publics (10 204 négatifs) : 16 000 pour entraîner, 4 000 pour tester ; vocabulaire de 149 529 termes. F1 macro **0,9205**, exactitude **0,9205**, rappel négatif **0,9113**, au-dessus du seuil F1 de 0,85. Les mesures sont sauvegardées dans docs/metrics-allocine.json ; le modèle indépendant est models/sentiment-allocine.joblib (ignoré par Git). Le modèle de démonstration reste actif pour reproduire les contrôles et le jeu d'or du TP4. Ces mesures complètent la vérification antérieure limitée à la démonstration.

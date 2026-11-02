@@ -1,0 +1,40 @@
+{
+  "missing_model": {
+    "exit": 1,
+    "stderr": "Modèle introuvable : C:\\Users\\HP\\Desktop\\IADEV\\wheel-validation\\Lib\\site-packages\\models\\sentiment.joblib. Lancez python src/train.py, ou indiquez son chemin dans SENTIMENT_MODELE."
+  },
+  "Livraison rapide, produit conforme, très satisfait": {
+    "label": "POSITIVE",
+    "score": 0.777,
+    "text": "Livraison rapide, produit conforme, très satisfait"
+  },
+  "xqzvb wlkptr grombu": {
+    "label": "INDETERMINE",
+    "score": 0.5162,
+    "text": "xqzvb wlkptr grombu"
+  },
+  "installed_module": "C:\\Users\\HP\\Desktop\\IADEV\\wheel-validation\\Lib\\site-packages\\sentiment_app\\__init__.py",
+  "real_api_health": {
+    "status": "OK",
+    "model": "tfidf-logreg (TP2, models/sentiment.joblib)"
+  },
+  "wheel_entries": [
+    "api/__init__.py",
+    "api/main.py",
+    "api/model.py",
+    "api/schemas.py",
+    "sentiment_app/__init__.py",
+    "sentiment_app/__main__.py",
+    "sentiment_app/cli.py",
+    "sentiment_app/predict.py",
+    "ui/__init__.py",
+    "ui/app.py",
+    "ui/client.py",
+    "ui/helpers.py",
+    "sentiment_app-0.6.0.dist-info/METADATA",
+    "sentiment_app-0.6.0.dist-info/WHEEL",
+    "sentiment_app-0.6.0.dist-info/entry_points.txt",
+    "sentiment_app-0.6.0.dist-info/top_level.txt",
+    "sentiment_app-0.6.0.dist-info/RECORD"
+  ]
+}

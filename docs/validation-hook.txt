@@ -1,0 +1,17 @@
+ruff (erreurs probables, imports)........................................Failed
+- hook id: ruff
+- exit code: 1
+
+F401 [*] `os` imported but unused
+ --> quality_probe_tp4.py:1:8
+  |
+1 | import os
+  |        ^^
+help: Remove unused import: `os`
+  |
+  - import os
+  |
+
+Found 1 error.
+[*] 1 fixable with the `--fix` option.
+

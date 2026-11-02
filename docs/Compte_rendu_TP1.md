@@ -45,7 +45,7 @@ L'interface Streamlit et son seuil d'incertitude relèvent du TP3. Aucun avis n'
 
 ## 6. Ce qui a échoué
 
-Les vérifications du TP1 portent notamment sur la structure des dossiers, la présence de `.gitignore`, l'environnement virtuel et les contributions Git. **À compléter avec les éventuels incidents réellement rencontrés pendant le TP1** : message exact, cause et correction. Les échanges disponibles ne confirment pas d'incident précis sur cette séance.
+Les vérifications du TP1 portent notamment sur la structure des dossiers, la présence de `.gitignore`, l'environnement virtuel et les contributions Git. Aucun journal d'incident initial n'est conservé ; aucun incident historique supplémentaire n'est revendiqué. La nouvelle vérification de la structure, des fiches et des auteurs Git passe dans la suite complète.
 
 ## 7. Ce que nous ferions autrement
 

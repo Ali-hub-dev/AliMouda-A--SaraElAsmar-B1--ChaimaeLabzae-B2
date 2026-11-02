@@ -101,3 +101,18 @@ def test_modele_en_panne(monkeypatch, erreur):
         assert reponse.status_code == 500
         assert "bug interne" not in reponse.text
         assert "panne du modèle" not in reponse.text
+
+
+def test_classes_inattendues(monkeypatch):
+    from types import SimpleNamespace
+
+    from fastapi.testclient import TestClient
+
+    from api import model
+    from api.main import app
+
+    monkeypatch.setattr(model, "charger_modele",
+                        lambda: SimpleNamespace(classes_=["inconnue", "positive"]))
+    with pytest.raises(ValueError, match="Classes"):
+        with TestClient(app):
+            pytest.fail("Le démarrage aurait dû échouer")

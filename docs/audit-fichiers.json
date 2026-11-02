@@ -1,0 +1,1277 @@
+[
+  {
+    "path": "complete_tps.py",
+    "bytes": 5331,
+    "sha256": "98a810c461755133a5c71b7235301d4f132283f2b6db9a5f3c8a3e6f75d0e2ed"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/compte-rendu/compte-rendu-TEMPLATE.md",
+    "bytes": 2452,
+    "sha256": "ccab1e086cd3772c44afeac89c613cfa8e2a6eb0ab57d567f285df2068147ef7"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/compte-rendu/ENONCE-COMPTE-RENDU.md",
+    "bytes": 5115,
+    "sha256": "df6e536c21ca913cd3631a6e4794013b0ea746e076b76362e49a7207c69245f5"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/diapositives/tp1-complet-beamer.pdf",
+    "bytes": 272512,
+    "sha256": "5e72e3dbdf8c3d92f68e62a09f29b79be2907b5c6ed3939779e3b1a48d5ddf47"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/diapositives/tp1-demarche-beamer.pdf",
+    "bytes": 202094,
+    "sha256": "2d8d2f53f39a128d7aa1af7471966d2942706cbaa38496eb989d1c2dd28bc2bc"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/diapositives/tp1-tp2-tp3-beamer.pdf",
+    "bytes": 240547,
+    "sha256": "a7a8b536f09fd353e8e3fdb88e31c6503a86c5e59dae2772275b10e661fe1a62"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/diapositives/tp1-tp2-tp3-beamer.tex",
+    "bytes": 28711,
+    "sha256": "44e96ae4e8a8d2071d803e47b15ee25f98d5995cf52280d41184b56a5ca0f04c"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/diapositives/tp2-demarche-beamer.pdf",
+    "bytes": 186812,
+    "sha256": "9d8cce319a5b169555a2eb2eee79abe981034a5e0057bb8142440b955dfc1e00"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/enseignant/corrige-cadrage/cas1-pharmacie.md",
+    "bytes": 2774,
+    "sha256": "0f10a982cf6f51def71e8a38f891ab7e419ddef955bd11635ab176d1144a5e4c"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/enseignant/corrige-cadrage/cas2-reglement.md",
+    "bytes": 2641,
+    "sha256": "1f9c384323152b03202c07d78e279f036f901376f1a87dfcb3268f7dac490c8c"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/enseignant/corrige-cadrage/cas3-avis-negatifs.md",
+    "bytes": 2638,
+    "sha256": "455e339d4d34e44c8fd08387bb831f7b680c3431b7042aaf9cd90edef2fa1da5"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/enseignant/guide-tp1.pdf",
+    "bytes": 339901,
+    "sha256": "46b6b61cd7435bd1c2565a608f58962258cd7019e3cb4da2801607a5b00a2183"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/enseignant/quiz-intro-40-questions.csv",
+    "bytes": 14522,
+    "sha256": "c8708f35ef2abb1a7004403f1a83b3d37e1fe95ced7bd28ad9c97c988b658ddc"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/sentiment-app.zip",
+    "bytes": 48531,
+    "sha256": "f044c2930068709d4b60e326630808e2f943d0976e1a8e97b8923590d62a9872",
+    "archive_members": [
+      "sentiment-app/",
+      "sentiment-app/ui/",
+      "sentiment-app/ui/.gitkeep",
+      "sentiment-app/requirements.txt",
+      "sentiment-app/Makefile",
+      "sentiment-app/.github/",
+      "sentiment-app/.github/workflows/",
+      "sentiment-app/.github/workflows/ci.yml",
+      "sentiment-app/app/",
+      "sentiment-app/app/.gitkeep",
+      "sentiment-app/pytest.ini",
+      "sentiment-app/README.md",
+      "sentiment-app/scripts/",
+      "sentiment-app/scripts/setup.sh",
+      "sentiment-app/scripts/new_cadrage.py",
+      "sentiment-app/scripts/check_setup.py",
+      "sentiment-app/scripts/init_depot.sh",
+      "sentiment-app/scripts/setup.ps1",
+      "sentiment-app/scripts/verif_clone.sh",
+      "sentiment-app/.gitignore",
+      "sentiment-app/notebooks/",
+      "sentiment-app/notebooks/TP1-colab.ipynb",
+      "sentiment-app/AIDE-GIT.md",
+      "sentiment-app/.editorconfig",
+      "sentiment-app/TP1-ENONCE.md",
+      "sentiment-app/models/",
+      "sentiment-app/models/.gitkeep",
+      "sentiment-app/DEPANNAGE.md",
+      "sentiment-app/tests/",
+      "sentiment-app/tests/test_git_history.py",
+      "sentiment-app/tests/__init__.py",
+      "sentiment-app/tests/test_cadrage.py",
+      "sentiment-app/tests/test_environment.py",
+      "sentiment-app/tests/conftest.py",
+      "sentiment-app/data/",
+      "sentiment-app/data/sample_reviews.csv",
+      "sentiment-app/data/.gitkeep",
+      "sentiment-app/TESTS.md",
+      "sentiment-app/.env.example",
+      "sentiment-app/MARCHE-A-SUIVRE.md",
+      "sentiment-app/docs/",
+      "sentiment-app/docs/cadrage/",
+      "sentiment-app/docs/cadrage/cas3-avis-negatifs.md",
+      "sentiment-app/docs/cadrage/TEMPLATE.md",
+      "sentiment-app/docs/cadrage/GRILLE-DE-DECISION.md",
+      "sentiment-app/docs/cadrage/cas2-reglement.md",
+      "sentiment-app/docs/cadrage/EXEMPLE-corrige.md",
+      "sentiment-app/docs/cadrage/BANQUE-DE-CAS.md",
+      "sentiment-app/docs/cadrage/cas1-pharmacie.md",
+      "sentiment-app/exemples/",
+      "sentiment-app/exemples/app_streamlit.py",
+      "sentiment-app/exemples/train_sentiment.py",
+      "sentiment-app/exemples/README.md",
+      "sentiment-app/.vscode/",
+      "sentiment-app/.vscode/extensions.json",
+      "sentiment-app/.vscode/settings.json"
+    ]
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp2-semaine2/appliquer_tp2.py",
+    "bytes": 2431,
+    "sha256": "bea496a4b9bd93cdf174e937ba4f6d903b76b0b44cf3a6103fdc257b81b1bc6a"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp2-semaine2/LISEZ-MOI.md",
+    "bytes": 1544,
+    "sha256": "7243cf1092b7b48507cae7a98e39831dbb6df38985c014d8a2e68770053869d0"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp2-semaine2/MARCHE-A-SUIVRE-TP2.md",
+    "bytes": 5291,
+    "sha256": "6d5e981f0c454c47d99e12451f6ef38598b253594e1e5c722aedcfa5813a4b94"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp2-semaine2/notebooks/TP2-colab.ipynb",
+    "bytes": 5091,
+    "sha256": "37bd32274ee30cc5870aa3890dcd7b5d4b186c22b7376adba3dc3655a2bdbfb3"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp2-semaine2/src/evaluate.py",
+    "bytes": 2332,
+    "sha256": "2b0dcb71d739ca6149d2db677e2bdd0da674299b0e6f83e194a20d04e583be72"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp2-semaine2/src/make_demo.py",
+    "bytes": 3735,
+    "sha256": "b7df4d665bc8aed2f10ef73edb4210626463c56a18b5267387e2d7093882e7e4"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp2-semaine2/src/predict.py",
+    "bytes": 1318,
+    "sha256": "d412ce3ccd33888f0136981610e03406fbbd4767402d12ea1e08161b652d4d43"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp2-semaine2/src/train.py",
+    "bytes": 3603,
+    "sha256": "1bd3a99ee20207554b8bb941bc472a325443ed7a8fe5f8e7f96ba99a6e9fd2d5"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp2-semaine2/tests/test_model.py",
+    "bytes": 2034,
+    "sha256": "037c2f54b04c5d557f170d15bbb568b9392427947248b8bb58b60d80ecf50548"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp2-semaine2/TP2-ENONCE.md",
+    "bytes": 3257,
+    "sha256": "dbde3ebf9cb6a1b62a9aebc6a40e2ee4788aaed03dbad4190018701c143672ac"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp3-streamlit-kit/tp3-streamlit/appliquer_tp3.py",
+    "bytes": 1875,
+    "sha256": "8245fc1b7b1a48989af0c35a3d802259943a0d6384cd0b8dc0522a6866b156f7"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp3-streamlit-kit/tp3-streamlit/docs/compte-rendu-TEMPLATE.md",
+    "bytes": 2452,
+    "sha256": "ccab1e086cd3772c44afeac89c613cfa8e2a6eb0ab57d567f285df2068147ef7"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp3-streamlit-kit/tp3-streamlit/ENONCE-COMPTE-RENDU.md",
+    "bytes": 5115,
+    "sha256": "df6e536c21ca913cd3631a6e4794013b0ea746e076b76362e49a7207c69245f5"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp3-streamlit-kit/tp3-streamlit/MARCHE-A-SUIVRE-TP3.md",
+    "bytes": 4050,
+    "sha256": "dfb87009ffc8ad6bb1ca1b789644f43723ddfcc4b8ab1510e8ca5f9d21540641"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp3-streamlit-kit/tp3-streamlit/notebooks/TP3-colab-streamlit.ipynb",
+    "bytes": 6839,
+    "sha256": "4ce6471fdbc6ce42880c804276ff7835ddc1bac1d42656049e5bc1338096391f"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp3-streamlit-kit/tp3-streamlit/tests/test_ui.py",
+    "bytes": 1926,
+    "sha256": "34aa4f5e0bcc8478d5493a32492412daef6456c9e8fe7ba260c84eacdf7c79f9"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp3-streamlit-kit/tp3-streamlit/TP3-ENONCE.md",
+    "bytes": 2492,
+    "sha256": "6d5655a8c3648086e21af70abe531109470c3c7db9b660fd33aa8d5e5063bb62"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp3-streamlit-kit/tp3-streamlit/ui/app.py",
+    "bytes": 3730,
+    "sha256": "f9c48ac877ef55be4038b036d0a86aabd3f479fdb84df05c43b729f543b9111e"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/kits/tp3-streamlit-kit/tp3-streamlit/ui/helpers.py",
+    "bytes": 2511,
+    "sha256": "e239a33196eae43b2714c30f013db8086859d60ba95b7522c38ceddb5f213fe1"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/LISEZ-MOI.md",
+    "bytes": 3238,
+    "sha256": "ed917960e1abcf303e6428477b91e47293f9047f3a3cba28a8ef648bb1d18b2e"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/tp1-tp2-tp3-detaille.pdf",
+    "bytes": 323875,
+    "sha256": "5fdbb8c9efa101608f825b2d99d6c5865dd0478b66e9007d97e866ff9af9411e"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/tp1-tp2-tp3-detaille.tex",
+    "bytes": 62436,
+    "sha256": "0ae8079c8fabb8ac44ad8a2287dd1edd63f1589785cca63b0f2771a92c458dea"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/tp1-tp2-tp3.md",
+    "bytes": 34026,
+    "sha256": "afdfecfcc14d06535ba9b9dfd467fa807d1c3d5a96c064a7bd94eb445fe84458"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/tp1-tp2-tp3.pdf",
+    "bytes": 224784,
+    "sha256": "cccdbb2c60f94083a96b07c14ea1bec3a230da6e7b79e3f1cd9bcd08b1bf898e"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/tp1-tp2-tp3.tex",
+    "bytes": 24388,
+    "sha256": "7dacc8e3ce0b328771f8f9c0f1a23988dc50a36d4970c2f597f934ce43f4ac4c"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3/tp1-tp2-tp3/TP3-colab-streamlit.ipynb",
+    "bytes": 6839,
+    "sha256": "4ce6471fdbc6ce42880c804276ff7835ddc1bac1d42656049e5bc1338096391f"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp1-tp2-tp3.md",
+    "bytes": 34026,
+    "sha256": "afdfecfcc14d06535ba9b9dfd467fa807d1c3d5a96c064a7bd94eb445fe84458"
+  },
+  {
+    "path": "Demarche Tp1-Tp2-Tp3/tp3-streamlit-kit.zip",
+    "bytes": 16615,
+    "sha256": "52a28db181bf39c177087a2c1d6552e260bf39e8e646c7d8ebf8c4ca73b2bb12",
+    "archive_members": [
+      "tp3-streamlit/",
+      "tp3-streamlit/ENONCE-COMPTE-RENDU.md",
+      "tp3-streamlit/ui/",
+      "tp3-streamlit/ui/helpers.py",
+      "tp3-streamlit/ui/app.py",
+      "tp3-streamlit/TP3-ENONCE.md",
+      "tp3-streamlit/notebooks/",
+      "tp3-streamlit/notebooks/TP3-colab-streamlit.ipynb",
+      "tp3-streamlit/MARCHE-A-SUIVRE-TP3.md",
+      "tp3-streamlit/tests/",
+      "tp3-streamlit/tests/test_ui.py",
+      "tp3-streamlit/appliquer_tp3.py",
+      "tp3-streamlit/docs/",
+      "tp3-streamlit/docs/compte-rendu-TEMPLATE.md"
+    ]
+  },
+  {
+    "path": "finish_docs.py",
+    "bytes": 3814,
+    "sha256": "0b1a9615271de8cbd627f83dc22899ead047d297cad8a1f48b3eb451b9048986"
+  },
+  {
+    "path": "inventory.py",
+    "bytes": 769,
+    "sha256": "f30442a0c7979ed9411382b5809c4f68edc221e6f6ea7b906094f254ff13081c"
+  },
+  {
+    "path": "kit-tp3/api/__init__.py",
+    "bytes": 49,
+    "sha256": "fcb97fad0ae30135271128eabad55cabc224c1b3a44428282dfa10f6a975eb21"
+  },
+  {
+    "path": "kit-tp3/api/main.py",
+    "bytes": 2850,
+    "sha256": "fc157a01f01ef4126df0a309bd246d7e81b06fb36c83945f85b5629c20dbcf77"
+  },
+  {
+    "path": "kit-tp3/api/model.py",
+    "bytes": 1192,
+    "sha256": "d4e28fb220e5be45bc54c9b9a6b605c70c1fc79d57311d0c28ae2eb6179cf022"
+  },
+  {
+    "path": "kit-tp3/api/schemas.py",
+    "bytes": 974,
+    "sha256": "fd20ee98567c6225f9784363db90f997e7a72004907560bec6ec0cd743041331"
+  },
+  {
+    "path": "kit-tp3/appliquer_tp3.py",
+    "bytes": 7202,
+    "sha256": "05f354e60436a979999462a0122506cb43864b3e195d2a8687c2ce8f02fb57d4"
+  },
+  {
+    "path": "kit-tp3/docs/semaine3.md",
+    "bytes": 382,
+    "sha256": "31b79b7af08963522764c7d878b2b88681a7a391a0fdee4523a008796d46ca3e"
+  },
+  {
+    "path": "kit-tp3/LISEZ-MOI.md",
+    "bytes": 1502,
+    "sha256": "db443880391b08ab99f4c616f1011d5a0095b254a0603b1b438057f6f262d2cd"
+  },
+  {
+    "path": "kit-tp3/MARCHE-A-SUIVRE-TP3.md",
+    "bytes": 5551,
+    "sha256": "c0f9e158d5d59c4623009d067a942c04131bed1550c19eb2fac04a087da65408"
+  },
+  {
+    "path": "kit-tp3/tests/test_api.py",
+    "bytes": 1815,
+    "sha256": "429ceb0d6bddb9502ae5045e13d5d6271aab21cc3f436a97c1c2c3bc51be5197"
+  },
+  {
+    "path": "kit-tp3/TP3-ENONCE.md",
+    "bytes": 2858,
+    "sha256": "848aa9b4bcf5f2d867bb118bd1d320ed6d8a0ef3242b06e5fd8af2ff15ad3af8"
+  },
+  {
+    "path": "ressources-etudiants/guide-rattrapage-tp1-tp5.pdf",
+    "bytes": 573685,
+    "sha256": "94c8e29f17b9bbe2eaefd71cc2e5ce3e41b20ceb932715b1d732d29894df9c30"
+  },
+  {
+    "path": "ressources-etudiants/journal-tp1-tp5.md",
+    "bytes": 22431,
+    "sha256": "ef085c7e161b493e6314114455b5a59cb3209b1aa9a3181bd9988d6bd7ac5cef"
+  },
+  {
+    "path": "ressources-etudiants/kit-tp3.zip",
+    "bytes": 13054,
+    "sha256": "f4e129b0202059b37320c24ea3d1f439281e5984e5845c3b6eb4b1b8c79db4a0",
+    "archive_members": [
+      "kit-tp3/",
+      "kit-tp3/TP3-ENONCE.md",
+      "kit-tp3/LISEZ-MOI.md",
+      "kit-tp3/api/",
+      "kit-tp3/api/model.py",
+      "kit-tp3/api/main.py",
+      "kit-tp3/api/__init__.py",
+      "kit-tp3/api/schemas.py",
+      "kit-tp3/MARCHE-A-SUIVRE-TP3.md",
+      "kit-tp3/tests/",
+      "kit-tp3/tests/test_api.py",
+      "kit-tp3/appliquer_tp3.py",
+      "kit-tp3/docs/",
+      "kit-tp3/docs/semaine3.md"
+    ]
+  },
+  {
+    "path": "ressources-etudiants/LISEZ-MOI.txt",
+    "bytes": 714,
+    "sha256": "401f390f72fa54be88d73be92898a64198249904ff209c552add1fc8d747e057"
+  },
+  {
+    "path": "ressources-etudiants/tp2-semaine2-kit.zip",
+    "bytes": 16328,
+    "sha256": "6d30ccf3c122db2eb7ee6ed3d393c39fb2ba874e09348207e93b03b390e4b25e",
+    "archive_members": [
+      "tp2-semaine2/",
+      "tp2-semaine2/appliquer_tp2.py",
+      "tp2-semaine2/src/",
+      "tp2-semaine2/src/evaluate.py",
+      "tp2-semaine2/src/predict.py",
+      "tp2-semaine2/src/make_demo.py",
+      "tp2-semaine2/src/train.py",
+      "tp2-semaine2/LISEZ-MOI.md",
+      "tp2-semaine2/notebooks/",
+      "tp2-semaine2/notebooks/TP2-colab.ipynb",
+      "tp2-semaine2/tests/",
+      "tp2-semaine2/tests/test_model.py",
+      "tp2-semaine2/MARCHE-A-SUIVRE-TP2.md",
+      "tp2-semaine2/TP2-ENONCE.md"
+    ]
+  },
+  {
+    "path": "ressources-etudiants/tp4-tests-qualite-kit.zip",
+    "bytes": 25579,
+    "sha256": "240f853227a1afb5b28bad084969f58eb2969f3b98893b0580f553cbe533edf0",
+    "archive_members": [
+      "tp4-tests-qualite/",
+      "tp4-tests-qualite/appliquer_tp4.py",
+      "tp4-tests-qualite/.pre-commit-config.yaml",
+      "tp4-tests-qualite/src/",
+      "tp4-tests-qualite/src/courbe_seuil.py",
+      "tp4-tests-qualite/src/bilan_jeu_or.py",
+      "tp4-tests-qualite/ci-tp4.yml",
+      "tp4-tests-qualite/LISEZ-MOI.md",
+      "tp4-tests-qualite/TP4-ENONCE.md",
+      "tp4-tests-qualite/MARCHE-A-SUIVRE-TP4.md",
+      "tp4-tests-qualite/tests/",
+      "tp4-tests-qualite/tests/test_integration.py",
+      "tp4-tests-qualite/tests/test_jeu_or.py",
+      "tp4-tests-qualite/tests/test_limites.py",
+      "tp4-tests-qualite/data/",
+      "tp4-tests-qualite/data/jeu_or.csv",
+      "tp4-tests-qualite/pyproject.toml",
+      "tp4-tests-qualite/requirements-dev.txt",
+      "tp4-tests-qualite/docs/",
+      "tp4-tests-qualite/docs/semaine4.md"
+    ]
+  },
+  {
+    "path": "ressources-etudiants/tp5-interface-kit.zip",
+    "bytes": 12757,
+    "sha256": "e7ef97c1d46872c7b07b0b16fcc9a86e60e96a62b3e682188c4a25ede5e0b89a",
+    "archive_members": [
+      "tp5-interface/",
+      "tp5-interface/ui/",
+      "tp5-interface/ui/client.py",
+      "tp5-interface/ui/__init__.py",
+      "tp5-interface/ui/app.py",
+      "tp5-interface/TP5-ENONCE.md",
+      "tp5-interface/LISEZ-MOI.md",
+      "tp5-interface/appliquer_tp5.py",
+      "tp5-interface/tests/",
+      "tp5-interface/tests/test_client.py",
+      "tp5-interface/tests/test_interface.py",
+      "tp5-interface/data/",
+      "tp5-interface/data/avis_exemple.csv",
+      "tp5-interface/docs/",
+      "tp5-interface/docs/semaine5.md",
+      "tp5-interface/MARCHE-A-SUIVRE-TP5.md"
+    ]
+  },
+  {
+    "path": "ressources-etudiants (1).zip",
+    "bytes": 666893,
+    "sha256": "edd86ddf3cf95b3a6eb835e7502f86e03de0c7a3d581077a03a671f74c7d1387",
+    "archive_members": [
+      "ressources-etudiants/",
+      "ressources-etudiants/LISEZ-MOI.txt",
+      "ressources-etudiants/guide-rattrapage-tp1-tp5.pdf",
+      "ressources-etudiants/tp5-interface-kit.zip",
+      "ressources-etudiants/tp2-semaine2-kit.zip",
+      "ressources-etudiants/tp6-packaging-kit.zip",
+      "ressources-etudiants/journal-tp1-tp6.md",
+      "ressources-etudiants/tp4-tests-qualite-kit.zip",
+      "ressources-etudiants/kit-tp3.zip"
+    ]
+  },
+  {
+    "path": "sentiment-app/.coverage",
+    "bytes": 53248,
+    "sha256": "2f949d0f59db58a1bd902962616d6b63eb57e96dd4ade4ad1438a8fc04601885"
+  },
+  {
+    "path": "sentiment-app/.editorconfig",
+    "bytes": 218,
+    "sha256": "8aa756e8899e1ad0a7a3e8fc4670c788be4b04d834f1e0caf84a1099dfb2b839"
+  },
+  {
+    "path": "sentiment-app/.env.example",
+    "bytes": 120,
+    "sha256": "fde6be27d1a374176730a98445490e25f64d834866a67aabcc2e17699b67c522"
+  },
+  {
+    "path": "sentiment-app/.github/workflows/ci.yml",
+    "bytes": 1588,
+    "sha256": "66d2bdd53e30789de88b5a3caaa51617b64e4261a5eb33f35b41d3c810293062"
+  },
+  {
+    "path": "sentiment-app/.gitignore",
+    "bytes": 552,
+    "sha256": "4cd9ebcd84cdd7ad4349329d6bc9b1a671b7a9e0915f4a97091ffb13b69ed545"
+  },
+  {
+    "path": "sentiment-app/.pre-commit-config.yaml",
+    "bytes": 562,
+    "sha256": "f71bbd1ca890ebe80e450dfd693ceb29e24fda81660b987d065bff306c889657"
+  },
+  {
+    "path": "sentiment-app/.vscode/extensions.json",
+    "bytes": 109,
+    "sha256": "b64f9f286be16480868cfb62aa6c9bffd52f2b7fcdde4d5f594f6a886e5fe369"
+  },
+  {
+    "path": "sentiment-app/.vscode/settings.json",
+    "bytes": 433,
+    "sha256": "dc66bc184caba6f9b5eb98350dc4e89162d4c8d616d836c0b86a8f4c14c2d61b"
+  },
+  {
+    "path": "sentiment-app/AIDE-GIT.md",
+    "bytes": 3099,
+    "sha256": "00b6460526cc58d8ae7769b763d38cf978719146105baaade38b0b546cb08a2e"
+  },
+  {
+    "path": "sentiment-app/api/__init__.py",
+    "bytes": 49,
+    "sha256": "fcb97fad0ae30135271128eabad55cabc224c1b3a44428282dfa10f6a975eb21"
+  },
+  {
+    "path": "sentiment-app/api/main.py",
+    "bytes": 2859,
+    "sha256": "7add06807d9e1727b56b2afe9be527bb094e50a1e08b91dd4f4dd66a75c25f8f"
+  },
+  {
+    "path": "sentiment-app/api/main.py.bak",
+    "bytes": 2937,
+    "sha256": "2406549240340d57d21e291efe1aa002b56d5b8d25cf23113c679d940fb618ef"
+  },
+  {
+    "path": "sentiment-app/api/model.py",
+    "bytes": 1234,
+    "sha256": "406a84b595c9583c67a6ab0ea346e1435ac6b13938d8565f9539b4be710ba2d7"
+  },
+  {
+    "path": "sentiment-app/api/model.py.bak",
+    "bytes": 1234,
+    "sha256": "c271a621f6cd24875057d2078227e05072f45f27f85d99864fd005d9144adf04"
+  },
+  {
+    "path": "sentiment-app/api/schemas.py",
+    "bytes": 1484,
+    "sha256": "d4a36da7c36c412180f18689cfea04d2d4b3a7ee255b72609278b0a296f7d4b7"
+  },
+  {
+    "path": "sentiment-app/app/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "sentiment-app/CHANGELOG.md",
+    "bytes": 1278,
+    "sha256": "5f2498ee5eb2f5f467eed79e0f834becc40675c505ea10012131aa9b39f516e4"
+  },
+  {
+    "path": "sentiment-app/data/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "sentiment-app/data/avis_exemple.csv",
+    "bytes": 252,
+    "sha256": "0a44e1f59b7d1545199878108ff9d347bd29c1d5f2862ddecbdae90d883a4a47"
+  },
+  {
+    "path": "sentiment-app/data/demo_reviews.csv",
+    "bytes": 24721,
+    "sha256": "e763469c6f1b0ee057ff82b27b6c6fac7302267154eb3391d74ac9517ce1283d"
+  },
+  {
+    "path": "sentiment-app/data/jeu_or.csv",
+    "bytes": 2156,
+    "sha256": "68898a9d115e6b27a37970e6ceffed4a5e898ce46d1109d862f37dd7651a7f3e"
+  },
+  {
+    "path": "sentiment-app/data/sample_reviews.csv",
+    "bytes": 2001,
+    "sha256": "a243a60efd6a614e378d449027b8835e07d05411287a068256fad5dbad715000"
+  },
+  {
+    "path": "sentiment-app/DEPANNAGE.md",
+    "bytes": 6507,
+    "sha256": "0a81dd8cf1d3f378d30abbb16a8e9a8fd405efecd7bb2f3b1e6381d4c0b0dfdc"
+  },
+  {
+    "path": "sentiment-app/docs/cadrage/BANQUE-DE-CAS.md",
+    "bytes": 4026,
+    "sha256": "ddb42c6f96441de796f4b435d6824f6902354d5f2d0c3fc624aaad9ea4ffd0ea"
+  },
+  {
+    "path": "sentiment-app/docs/cadrage/cas1-pharmacie.md",
+    "bytes": 1949,
+    "sha256": "a131acc72e8916f65ec75f2df45d0710b76759ff0ed3206dcc46268b634da1f4"
+  },
+  {
+    "path": "sentiment-app/docs/cadrage/cas2-reglement.md",
+    "bytes": 2184,
+    "sha256": "0c139eb4b3108ba11181fd31c2863f9274d88d6a06e0cba4ffbe229d90dd69f6"
+  },
+  {
+    "path": "sentiment-app/docs/cadrage/cas3-avis-negatifs.md",
+    "bytes": 2191,
+    "sha256": "274e265b4cb7620983ded1a3bb7258c22720651faea166efa111806f39df06f6"
+  },
+  {
+    "path": "sentiment-app/docs/cadrage/EXEMPLE-corrige.md",
+    "bytes": 1949,
+    "sha256": "550a58aadc28e6987c5d9801383afa03e7f639d8afe387b519129436c5d772b8"
+  },
+  {
+    "path": "sentiment-app/docs/cadrage/GRILLE-DE-DECISION.md",
+    "bytes": 2494,
+    "sha256": "8fe6263eb497fc381fa2a868318e97452554cd0f123401da05ff4c6bdd5c82aa"
+  },
+  {
+    "path": "sentiment-app/docs/cadrage/TEMPLATE.md",
+    "bytes": 864,
+    "sha256": "0433182007a26b37b6e55e54e907de3c0623f3e71de83bdc0ed50a84515a6e4a"
+  },
+  {
+    "path": "sentiment-app/docs/compte-rendu-TEMPLATE.md",
+    "bytes": 2452,
+    "sha256": "ccab1e086cd3772c44afeac89c613cfa8e2a6eb0ab57d567f285df2068147ef7"
+  },
+  {
+    "path": "sentiment-app/docs/Compte_rendu_TP1.md",
+    "bytes": 4288,
+    "sha256": "bb33a7af9c08f7194ed6ca3366b2fbf88337ec94ef0a877b0cf238c3cee3b528"
+  },
+  {
+    "path": "sentiment-app/docs/Compte_rendu_TP2.md",
+    "bytes": 4731,
+    "sha256": "e298c3cf158a32ad8ad7467b30bfb998702519093c83cd75b7745d5e5c03d214"
+  },
+  {
+    "path": "sentiment-app/docs/Compte_rendu_TP3.md",
+    "bytes": 5169,
+    "sha256": "72bdccbc41913100b53363b0c85d250dc97f31773a91599e35034ab3174808d1"
+  },
+  {
+    "path": "sentiment-app/docs/semaine2.md",
+    "bytes": 846,
+    "sha256": "112ad9c3f60f93cfe27fc987e6d2ead2c3cc6aede27f7aa2d54c99ff1bfdb787"
+  },
+  {
+    "path": "sentiment-app/docs/semaine3.md",
+    "bytes": 721,
+    "sha256": "e56c3a83644cbfd932a60b9e101b6ff83dc74019eee02e4480b4fc2ea8f34536"
+  },
+  {
+    "path": "sentiment-app/docs/semaine4.md",
+    "bytes": 4208,
+    "sha256": "9eed06c5b6789fd94600f173c5fbe5ab75206a4ee6d2e9cad9710cc44969dff3"
+  },
+  {
+    "path": "sentiment-app/docs/semaine5.md",
+    "bytes": 471,
+    "sha256": "dda0dcf288015f1c2931bb73fb3dae7b1c53c01958adbda883211f95f8157a32"
+  },
+  {
+    "path": "sentiment-app/docs/semaine6.md",
+    "bytes": 491,
+    "sha256": "4ac5a22e6ba5aad41fea23cb5aa12081b585e95b4044a9e152a6d11a53c51203"
+  },
+  {
+    "path": "sentiment-app/ENONCE-COMPTE-RENDU.md",
+    "bytes": 5115,
+    "sha256": "df6e536c21ca913cd3631a6e4794013b0ea746e076b76362e49a7207c69245f5"
+  },
+  {
+    "path": "sentiment-app/exemples/app_streamlit.py",
+    "bytes": 2339,
+    "sha256": "a2efe22d14d7eb77280676e07f45eb8dfbfc5824008d01f8b079025d806ef78f"
+  },
+  {
+    "path": "sentiment-app/exemples/README.md",
+    "bytes": 2938,
+    "sha256": "debf699c5aea62b822fa695720bf997dd2c3ff45de7060343d8833fc71cf1d1d"
+  },
+  {
+    "path": "sentiment-app/exemples/train_sentiment.py",
+    "bytes": 3460,
+    "sha256": "f5853a15e9ef1622a6518b2addfad004a2df4bed1fbd8e533441aff33cca6c4f"
+  },
+  {
+    "path": "sentiment-app/Makefile",
+    "bytes": 1631,
+    "sha256": "6e8876f79da21ffa7e74e2e01bf5bfb0e95cd74b33396074a53e6dddbb448fb9"
+  },
+  {
+    "path": "sentiment-app/MARCHE-A-SUIVRE-TP2.md",
+    "bytes": 5291,
+    "sha256": "6d5e981f0c454c47d99e12451f6ef38598b253594e1e5c722aedcfa5813a4b94"
+  },
+  {
+    "path": "sentiment-app/MARCHE-A-SUIVRE-TP3.md",
+    "bytes": 4050,
+    "sha256": "dfb87009ffc8ad6bb1ca1b789644f43723ddfcc4b8ab1510e8ca5f9d21540641"
+  },
+  {
+    "path": "sentiment-app/MARCHE-A-SUIVRE-TP4.md",
+    "bytes": 9536,
+    "sha256": "53129b319f7ba28d7fa8d88baf8e1a89d8e1638788b799e6420df50ccb811f44"
+  },
+  {
+    "path": "sentiment-app/MARCHE-A-SUIVRE-TP5.md",
+    "bytes": 3756,
+    "sha256": "3d2488592ef56c4896c68f2a0329f1d51dd104f814101fecb4bc3d7668c8f373"
+  },
+  {
+    "path": "sentiment-app/MARCHE-A-SUIVRE-TP6.md",
+    "bytes": 7489,
+    "sha256": "2ead05f637c14f82ddfeecc0365fb76f02629f6c99096ad78b3c1d15849fe2a1"
+  },
+  {
+    "path": "sentiment-app/MARCHE-A-SUIVRE.md",
+    "bytes": 7101,
+    "sha256": "25f0637ba57c9e269cd8cc9f3822ad7984a803f197c83bc67910eb6b1fe4f00c"
+  },
+  {
+    "path": "sentiment-app/models/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "sentiment-app/models/metrics.json",
+    "bytes": 182,
+    "sha256": "5b447c42c24fa573f3cc100732a41c278410513870b212c0303f02182844feac"
+  },
+  {
+    "path": "sentiment-app/models/sentiment.joblib",
+    "bytes": 11761,
+    "sha256": "1b5f76281e95943d4ea9a6529d75a40f2ca05ff985eabe20453f30d39b058b25"
+  },
+  {
+    "path": "sentiment-app/notebooks/TP1-colab.ipynb",
+    "bytes": 5755,
+    "sha256": "1d14aeeebf57731f9344878dff66c956b629cfb0f037ed1602fa86f32ce4d3f2"
+  },
+  {
+    "path": "sentiment-app/notebooks/TP2-colab.ipynb",
+    "bytes": 5091,
+    "sha256": "37bd32274ee30cc5870aa3890dcd7b5d4b186c22b7376adba3dc3655a2bdbfb3"
+  },
+  {
+    "path": "sentiment-app/notebooks/TP3-colab-streamlit.ipynb",
+    "bytes": 6839,
+    "sha256": "4ce6471fdbc6ce42880c804276ff7835ddc1bac1d42656049e5bc1338096391f"
+  },
+  {
+    "path": "sentiment-app/pyproject.toml",
+    "bytes": 1707,
+    "sha256": "ea761b80271a15c9fbb42a3ae877e71a520885f1180ad4b4d5075942a63aeaff"
+  },
+  {
+    "path": "sentiment-app/pytest.ini",
+    "bytes": 64,
+    "sha256": "a118d4ab543b4d6d31a7135361ab356568bf9b1fa5376ad068a133f066de52cf"
+  },
+  {
+    "path": "sentiment-app/README.md",
+    "bytes": 3433,
+    "sha256": "221ba255d37fc0b32895d9cf75d68432935b71f07c086904081842580afd0d71"
+  },
+  {
+    "path": "sentiment-app/requirements-dev.txt",
+    "bytes": 313,
+    "sha256": "942c17bb21b639a035a9225d0f8c7b53a232ae35f545b30c40df8c227b0a12dc"
+  },
+  {
+    "path": "sentiment-app/requirements.lock",
+    "bytes": 3695,
+    "sha256": "7c77e616b95909831d54185f3eb2c80e053e4b117ce9b687469a13b159cf6815"
+  },
+  {
+    "path": "sentiment-app/requirements.txt",
+    "bytes": 276,
+    "sha256": "3560fc61f810b6a05cac2a40ab231a6a64776952da220ee2dfeafa621262de5c"
+  },
+  {
+    "path": "sentiment-app/scripts/check_setup.py",
+    "bytes": 4860,
+    "sha256": "9e7adbfb00716d7a4087e24cea39512831bc6e38151f3ad6aae1f74821153ec7"
+  },
+  {
+    "path": "sentiment-app/scripts/init_depot.sh",
+    "bytes": 1598,
+    "sha256": "f0afde7099f4e196f9d6a0064d385a25f484b2331e479598a377cfe6a18fb798"
+  },
+  {
+    "path": "sentiment-app/scripts/new_cadrage.py",
+    "bytes": 947,
+    "sha256": "48ba2289fbfc7f53c3d11a614465cf963c28e02b01d9cafd2ae0d00a5b311cc1"
+  },
+  {
+    "path": "sentiment-app/scripts/setup.ps1",
+    "bytes": 648,
+    "sha256": "b60cb1c3368087c56a5eb1cc288463dfe8ee05de1e36dab5f8c0e7a2eb8a57eb"
+  },
+  {
+    "path": "sentiment-app/scripts/setup.sh",
+    "bytes": 675,
+    "sha256": "1777845114db1614ff2be149e044fb97853fa3f7a65d43c1a61d4a40382efc32"
+  },
+  {
+    "path": "sentiment-app/scripts/verif_clone.sh",
+    "bytes": 936,
+    "sha256": "feaefbf1cb410af1aba0d441f375d7b93016c43b6c402a5a1c5402e5c6bbaf30"
+  },
+  {
+    "path": "sentiment-app/sentiment_app/__init__.py",
+    "bytes": 169,
+    "sha256": "34d5b590ae2a9606caafbff4a4ceb6d1e656632b2b3b727007dcff85d29d63e8"
+  },
+  {
+    "path": "sentiment-app/sentiment_app/__main__.py",
+    "bytes": 149,
+    "sha256": "47f2641df18b0f9e3df90f6ca0a8b4d28550572cbe1cb9d3b07907e1cb3aa92e"
+  },
+  {
+    "path": "sentiment-app/sentiment_app/cli.py",
+    "bytes": 2254,
+    "sha256": "014786888558960cbce5b3f31e09cf3f487301b0e01729fabdcb7af67d8fa71c"
+  },
+  {
+    "path": "sentiment-app/sentiment_app/predict.py",
+    "bytes": 1691,
+    "sha256": "d956e6193c4b1bc32f20610c1cec8bc9d707ca99ab96b2095ba13686338a63ca"
+  },
+  {
+    "path": "sentiment-app/sentiment_app.egg-info/dependency_links.txt",
+    "bytes": 1,
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+  },
+  {
+    "path": "sentiment-app/sentiment_app.egg-info/entry_points.txt",
+    "bytes": 53,
+    "sha256": "357df3795baba5e5af076f10eb72737f5afd5e25b4bd5871ffcd54aabdfa0237"
+  },
+  {
+    "path": "sentiment-app/sentiment_app.egg-info/PKG-INFO",
+    "bytes": 4056,
+    "sha256": "51a62cfb94b26a5e472922cf4aaf7279121d69c979911d8d6b8b93ebc2daeebd"
+  },
+  {
+    "path": "sentiment-app/sentiment_app.egg-info/requires.txt",
+    "bytes": 158,
+    "sha256": "fcd743e679f66db4ee4a3bb1d2c228cade9163ce8d4a3b0bb124e6c9fc37052f"
+  },
+  {
+    "path": "sentiment-app/sentiment_app.egg-info/SOURCES.txt",
+    "bytes": 721,
+    "sha256": "36d6f018355e925c528075a4f2f4a377d88eeb477a25f1361e39ee35dd162790"
+  },
+  {
+    "path": "sentiment-app/sentiment_app.egg-info/top_level.txt",
+    "bytes": 21,
+    "sha256": "e38b186a307d9d23305fed248ae0699ae2f01e7a7ba314bb52f25c9b172797f7"
+  },
+  {
+    "path": "sentiment-app/src/bilan_jeu_or.py",
+    "bytes": 2070,
+    "sha256": "4726ce95eede9e333acef391ba516c6fb97f11da954c33e140f99890ab4886b8"
+  },
+  {
+    "path": "sentiment-app/src/courbe_seuil.py",
+    "bytes": 2676,
+    "sha256": "e36b3e3385a85a1fc6a5130c23acc7ddf3702194e387f1dbc059d505f2a7b7db"
+  },
+  {
+    "path": "sentiment-app/src/evaluate.py",
+    "bytes": 2394,
+    "sha256": "f9ee916b347f6bd2782b60287dc324fe96a711ccdfe154cf126c90d1bdcd482c"
+  },
+  {
+    "path": "sentiment-app/src/evaluate.py.bak",
+    "bytes": 2368,
+    "sha256": "1261f3f24d3f9b4e1886243160e09ffec21cff48ea14a28373947f56fdd83d4b"
+  },
+  {
+    "path": "sentiment-app/src/make_demo.py",
+    "bytes": 3735,
+    "sha256": "b7df4d665bc8aed2f10ef73edb4210626463c56a18b5267387e2d7093882e7e4"
+  },
+  {
+    "path": "sentiment-app/src/predict.py",
+    "bytes": 691,
+    "sha256": "c863a732a0360a9c2adfde8f1a299a8da1a18df23e39a7bb641111d5b2252d09"
+  },
+  {
+    "path": "sentiment-app/src/train.py",
+    "bytes": 3603,
+    "sha256": "1bd3a99ee20207554b8bb941bc472a325443ed7a8fe5f8e7f96ba99a6e9fd2d5"
+  },
+  {
+    "path": "sentiment-app/tests/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "sentiment-app/tests/conftest.py",
+    "bytes": 264,
+    "sha256": "413215e9762153a145758780a29bde5338e9421ad88256f1c8fcbed6248bb1d1"
+  },
+  {
+    "path": "sentiment-app/tests/test_api.py",
+    "bytes": 1816,
+    "sha256": "e4c8377f54d690706dbb013fea9e7fdd4057812faf75f213f5bc24c9e67289c4"
+  },
+  {
+    "path": "sentiment-app/tests/test_cadrage.py",
+    "bytes": 2588,
+    "sha256": "8dc6582a3da787002382c42e7fff8077e855747f7356e7fd87a480e17223b01b"
+  },
+  {
+    "path": "sentiment-app/tests/test_cadrage.py.bak",
+    "bytes": 2573,
+    "sha256": "9ab3d548f4311708fb86afe8b4ae2ce66e9ebb0e950091a10db8d24e601d72a7"
+  },
+  {
+    "path": "sentiment-app/tests/test_client.py",
+    "bytes": 1896,
+    "sha256": "f4747cde3017925310cdebca15453be609a382c88f052f8a30d18c8d713719e2"
+  },
+  {
+    "path": "sentiment-app/tests/test_environment.py",
+    "bytes": 2315,
+    "sha256": "57993716aa2e29658ae5d1bb9099324965e2c686f70608f1d0b9db094cd9c990"
+  },
+  {
+    "path": "sentiment-app/tests/test_environment.py.bak",
+    "bytes": 2297,
+    "sha256": "44375e4d038e5d59dadd97d5b7b074ccaa813a322de6a4c06ed5e9713665dee1"
+  },
+  {
+    "path": "sentiment-app/tests/test_git_history.py",
+    "bytes": 1499,
+    "sha256": "d5bc631f411517ea96e77afa9a678bbfa5031aec9f578def7878478c95cae08b"
+  },
+  {
+    "path": "sentiment-app/tests/test_integration.py",
+    "bytes": 3801,
+    "sha256": "76715f639753c18fddbf501d87c35d3ea4991fcfe754755b59e11ae25b8883de"
+  },
+  {
+    "path": "sentiment-app/tests/test_interface.py",
+    "bytes": 1870,
+    "sha256": "6b535059d290d8dc7e5bee3e9d36831887a97eb6866425834dbfe5e6b78d361f"
+  },
+  {
+    "path": "sentiment-app/tests/test_jeu_or.py",
+    "bytes": 3197,
+    "sha256": "a5ee3103600f19a3402dfa56597e55ded7c3ff8c1dcee20e56a2a973898a5f7c"
+  },
+  {
+    "path": "sentiment-app/tests/test_limites.py",
+    "bytes": 1862,
+    "sha256": "6e01169f16875e07e248c841c96505ac752dc40e0008bdd99d7e027d91cfb4f8"
+  },
+  {
+    "path": "sentiment-app/tests/test_model.py",
+    "bytes": 2034,
+    "sha256": "037c2f54b04c5d557f170d15bbb568b9392427947248b8bb58b60d80ecf50548"
+  },
+  {
+    "path": "sentiment-app/tests/test_packaging.py",
+    "bytes": 2605,
+    "sha256": "73bb75fe5081f921628bdbd3add3d276ddeb0dc87598c3357f517fda63b7c378"
+  },
+  {
+    "path": "sentiment-app/tests/test_ui.py",
+    "bytes": 1926,
+    "sha256": "34aa4f5e0bcc8478d5493a32492412daef6456c9e8fe7ba260c84eacdf7c79f9"
+  },
+  {
+    "path": "sentiment-app/TESTS.md",
+    "bytes": 3950,
+    "sha256": "6cc4dbb9cf6f4e202efbeeba97a9445800edac0da2a1e569dd956a691255d5e4"
+  },
+  {
+    "path": "sentiment-app/TP1-ENONCE.md",
+    "bytes": 9397,
+    "sha256": "96414209bd98473dd8c9da96f8fd0ca1f7b946170c850cde107548e6064b7467"
+  },
+  {
+    "path": "sentiment-app/TP2-ENONCE.md",
+    "bytes": 3257,
+    "sha256": "dbde3ebf9cb6a1b62a9aebc6a40e2ee4788aaed03dbad4190018701c143672ac"
+  },
+  {
+    "path": "sentiment-app/TP3-ENONCE.md",
+    "bytes": 2492,
+    "sha256": "6d5655a8c3648086e21af70abe531109470c3c7db9b660fd33aa8d5e5063bb62"
+  },
+  {
+    "path": "sentiment-app/TP4-ENONCE.md",
+    "bytes": 17667,
+    "sha256": "42927a6b54e3506b13ab1592d9f822efcbaa6e83d82f00fd0e7159d047a982d5"
+  },
+  {
+    "path": "sentiment-app/TP5-ENONCE.md",
+    "bytes": 2660,
+    "sha256": "6a5fb30da22cb2361c56159570c858e146723179eb3738dafdb4c3be99125ed2"
+  },
+  {
+    "path": "sentiment-app/TP6-ENONCE.md",
+    "bytes": 4260,
+    "sha256": "b5f0e64830a18ddbae06c7956627074639685f30fbff13737848bf6790a88919"
+  },
+  {
+    "path": "sentiment-app/ui/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "sentiment-app/ui/__init__.py",
+    "bytes": 57,
+    "sha256": "20492dcc68213a87de15aaf47a57c5371b143e0b5275fb230e7bd2f24a6369bd"
+  },
+  {
+    "path": "sentiment-app/ui/app.py",
+    "bytes": 2045,
+    "sha256": "40c298f7d02801424e86cdcf4c13f2b88c3bff2e0103eefda056bfc504084dbc"
+  },
+  {
+    "path": "sentiment-app/ui/client.py",
+    "bytes": 2543,
+    "sha256": "fe28492095bd523717065fd529c7d3600cecfae4eb376c71766078b8a96a27b7"
+  },
+  {
+    "path": "sentiment-app/ui/helpers.py",
+    "bytes": 2645,
+    "sha256": "ceec27e9eee275ed1345115ad21047ee5c10b86664fe3368cdb3243fe861356f"
+  },
+  {
+    "path": "sentiment-app/ui/helpers.py.bak",
+    "bytes": 2574,
+    "sha256": "fb80305e8b3349f452d68866fe4f7c1a384098ace8295d50ef3018964c5c2202"
+  },
+  {
+    "path": "tp4 et tp5.zip",
+    "bytes": 38868,
+    "sha256": "1c07984362a7a8eaae910591bd624e626021a0d5d611cd866641f755a682e8c2",
+    "archive_members": [
+      "tp4-tests-qualite/",
+      "tp4-tests-qualite/.pre-commit-config.yaml",
+      "tp4-tests-qualite/appliquer_tp4.py",
+      "tp4-tests-qualite/ci-tp4.yml",
+      "tp4-tests-qualite/data/",
+      "tp4-tests-qualite/data/jeu_or.csv",
+      "tp4-tests-qualite/docs/",
+      "tp4-tests-qualite/docs/semaine4.md",
+      "tp4-tests-qualite/LISEZ-MOI.md",
+      "tp4-tests-qualite/MARCHE-A-SUIVRE-TP4.md",
+      "tp4-tests-qualite/pyproject.toml",
+      "tp4-tests-qualite/requirements-dev.txt",
+      "tp4-tests-qualite/src/",
+      "tp4-tests-qualite/src/bilan_jeu_or.py",
+      "tp4-tests-qualite/src/courbe_seuil.py",
+      "tp4-tests-qualite/tests/",
+      "tp4-tests-qualite/tests/test_integration.py",
+      "tp4-tests-qualite/tests/test_jeu_or.py",
+      "tp4-tests-qualite/tests/test_limites.py",
+      "tp4-tests-qualite/TP4-ENONCE.md",
+      "tp5-interface/",
+      "tp5-interface/appliquer_tp5.py",
+      "tp5-interface/data/",
+      "tp5-interface/data/avis_exemple.csv",
+      "tp5-interface/docs/",
+      "tp5-interface/docs/semaine5.md",
+      "tp5-interface/LISEZ-MOI.md",
+      "tp5-interface/MARCHE-A-SUIVRE-TP5.md",
+      "tp5-interface/tests/",
+      "tp5-interface/tests/test_client.py",
+      "tp5-interface/tests/test_interface.py",
+      "tp5-interface/TP5-ENONCE.md",
+      "tp5-interface/ui/",
+      "tp5-interface/ui/app.py",
+      "tp5-interface/ui/client.py",
+      "tp5-interface/ui/__init__.py"
+    ]
+  },
+  {
+    "path": "tp4-tests-qualite/.pre-commit-config.yaml",
+    "bytes": 562,
+    "sha256": "f71bbd1ca890ebe80e450dfd693ceb29e24fda81660b987d065bff306c889657"
+  },
+  {
+    "path": "tp4-tests-qualite/appliquer_tp4.py",
+    "bytes": 5470,
+    "sha256": "22dc57b218c2bf2228c488cddfbeef0b35a90bc6cb13084f840a5a4e06227061"
+  },
+  {
+    "path": "tp4-tests-qualite/ci-tp4.yml",
+    "bytes": 658,
+    "sha256": "7c9d2267106075cdfedcd81d5a4074e30e5160fe26077e1cb9b22921eae2717c"
+  },
+  {
+    "path": "tp4-tests-qualite/data/jeu_or.csv",
+    "bytes": 38,
+    "sha256": "47fe16e81d227381e34b0cd755a8d6efd20769ca754c51834766e8c9d7043dea"
+  },
+  {
+    "path": "tp4-tests-qualite/docs/semaine4.md",
+    "bytes": 999,
+    "sha256": "3ba15883a18ec224170a8455dc2ec244350a460d94815cc3e0176a091deef593"
+  },
+  {
+    "path": "tp4-tests-qualite/LISEZ-MOI.md",
+    "bytes": 1534,
+    "sha256": "42e6ac7871ca84d0d054dbb69808bd3bb2e5473fa6dee2c26e80ddc452b52724"
+  },
+  {
+    "path": "tp4-tests-qualite/MARCHE-A-SUIVRE-TP4.md",
+    "bytes": 9536,
+    "sha256": "53129b319f7ba28d7fa8d88baf8e1a89d8e1638788b799e6420df50ccb811f44"
+  },
+  {
+    "path": "tp4-tests-qualite/pyproject.toml",
+    "bytes": 726,
+    "sha256": "385b0e4c2097569284495b428e47f6e0fa14bb20eaaea116f0cda2a49db5acae"
+  },
+  {
+    "path": "tp4-tests-qualite/requirements-dev.txt",
+    "bytes": 258,
+    "sha256": "af0ce1a9682af0b6a9e73954ef842f4b296496b41cbdfb90c9e206ed76e30623"
+  },
+  {
+    "path": "tp4-tests-qualite/src/bilan_jeu_or.py",
+    "bytes": 2070,
+    "sha256": "4726ce95eede9e333acef391ba516c6fb97f11da954c33e140f99890ab4886b8"
+  },
+  {
+    "path": "tp4-tests-qualite/src/courbe_seuil.py",
+    "bytes": 2676,
+    "sha256": "e36b3e3385a85a1fc6a5130c23acc7ddf3702194e387f1dbc059d505f2a7b7db"
+  },
+  {
+    "path": "tp4-tests-qualite/tests/test_integration.py",
+    "bytes": 1393,
+    "sha256": "283bcb22042b95d3270da4250b8a9562013e718326beca91da303fdf44f4f12f"
+  },
+  {
+    "path": "tp4-tests-qualite/tests/test_jeu_or.py",
+    "bytes": 2496,
+    "sha256": "c704a14595b82ff5f4ea3d451a4ec2373efcfd709f5b70b9cd1613c30324e5ae"
+  },
+  {
+    "path": "tp4-tests-qualite/tests/test_limites.py",
+    "bytes": 2284,
+    "sha256": "f7791de7d99611d40bc22b960c7a47e2d943864c24dadd3ce40631a88a39d415"
+  },
+  {
+    "path": "tp4-tests-qualite/TP4-ENONCE.md",
+    "bytes": 17667,
+    "sha256": "42927a6b54e3506b13ab1592d9f822efcbaa6e83d82f00fd0e7159d047a982d5"
+  },
+  {
+    "path": "tp5-interface/appliquer_tp5.py",
+    "bytes": 4316,
+    "sha256": "469f25315ba013759b7dfc9dff80ca53ca6e803b0ff0acbb80d1ded44f76d2a7"
+  },
+  {
+    "path": "tp5-interface/data/avis_exemple.csv",
+    "bytes": 252,
+    "sha256": "0a44e1f59b7d1545199878108ff9d347bd29c1d5f2862ddecbdae90d883a4a47"
+  },
+  {
+    "path": "tp5-interface/docs/semaine5.md",
+    "bytes": 471,
+    "sha256": "dda0dcf288015f1c2931bb73fb3dae7b1c53c01958adbda883211f95f8157a32"
+  },
+  {
+    "path": "tp5-interface/LISEZ-MOI.md",
+    "bytes": 1138,
+    "sha256": "5e0226fca920a4b7b78e59339a55dac8241993c2f883b4d34a96fdc904dcf986"
+  },
+  {
+    "path": "tp5-interface/MARCHE-A-SUIVRE-TP5.md",
+    "bytes": 3756,
+    "sha256": "3d2488592ef56c4896c68f2a0329f1d51dd104f814101fecb4bc3d7668c8f373"
+  },
+  {
+    "path": "tp5-interface/tests/test_client.py",
+    "bytes": 1896,
+    "sha256": "f4747cde3017925310cdebca15453be609a382c88f052f8a30d18c8d713719e2"
+  },
+  {
+    "path": "tp5-interface/tests/test_interface.py",
+    "bytes": 1870,
+    "sha256": "6b535059d290d8dc7e5bee3e9d36831887a97eb6866425834dbfe5e6b78d361f"
+  },
+  {
+    "path": "tp5-interface/TP5-ENONCE.md",
+    "bytes": 2660,
+    "sha256": "6a5fb30da22cb2361c56159570c858e146723179eb3738dafdb4c3be99125ed2"
+  },
+  {
+    "path": "tp5-interface/ui/__init__.py",
+    "bytes": 57,
+    "sha256": "20492dcc68213a87de15aaf47a57c5371b143e0b5275fb230e7bd2f24a6369bd"
+  },
+  {
+    "path": "tp5-interface/ui/app.py",
+    "bytes": 2045,
+    "sha256": "40c298f7d02801424e86cdcf4c13f2b88c3bff2e0103eefda056bfc504084dbc"
+  },
+  {
+    "path": "tp5-interface/ui/client.py",
+    "bytes": 2543,
+    "sha256": "fe28492095bd523717065fd529c7d3600cecfae4eb376c71766078b8a96a27b7"
+  },
+  {
+    "path": "tp6-packaging/tp6-packaging/appliquer_tp6.py",
+    "bytes": 7139,
+    "sha256": "948fe9d4ab8ff2b88a3a14f40613f93b8d5ca81103376894131364abc2b817c1"
+  },
+  {
+    "path": "tp6-packaging/tp6-packaging/CHANGELOG.md",
+    "bytes": 969,
+    "sha256": "bc24b8caf03e950a108008cab945c367c98af8569628296c207ce1bda5314424"
+  },
+  {
+    "path": "tp6-packaging/tp6-packaging/docs/semaine6.md",
+    "bytes": 491,
+    "sha256": "4ac5a22e6ba5aad41fea23cb5aa12081b585e95b4044a9e152a6d11a53c51203"
+  },
+  {
+    "path": "tp6-packaging/tp6-packaging/extraits/ci-tp6.yml",
+    "bytes": 368,
+    "sha256": "6588975e960e60642c5814fb1f97c7168900ed6a39aecbbc413e77d0eb0bfb35"
+  },
+  {
+    "path": "tp6-packaging/tp6-packaging/extraits/predict_compatibilite.py",
+    "bytes": 691,
+    "sha256": "c863a732a0360a9c2adfde8f1a299a8da1a18df23e39a7bb641111d5b2252d09"
+  },
+  {
+    "path": "tp6-packaging/tp6-packaging/extraits/pyproject-tp6.toml",
+    "bytes": 926,
+    "sha256": "8cf1f3beeeeb7d81962e194a7dc850f67d6e274e0a7e29ba8d0230e2ebcac1f5"
+  },
+  {
+    "path": "tp6-packaging/tp6-packaging/LISEZ-MOI.md",
+    "bytes": 1258,
+    "sha256": "fa7384f59f35f8572963421f3d0e67f5c273e29fa35d75c649fa0fb662bc4f18"
+  },
+  {
+    "path": "tp6-packaging/tp6-packaging/MARCHE-A-SUIVRE-TP6.md",
+    "bytes": 7489,
+    "sha256": "2ead05f637c14f82ddfeecc0365fb76f02629f6c99096ad78b3c1d15849fe2a1"
+  },
+  {
+    "path": "tp6-packaging/tp6-packaging/sentiment_app/__init__.py",
+    "bytes": 169,
+    "sha256": "34d5b590ae2a9606caafbff4a4ceb6d1e656632b2b3b727007dcff85d29d63e8"
+  },
+  {
+    "path": "tp6-packaging/tp6-packaging/sentiment_app/__main__.py",
+    "bytes": 149,
+    "sha256": "47f2641df18b0f9e3df90f6ca0a8b4d28550572cbe1cb9d3b07907e1cb3aa92e"
+  },
+  {
+    "path": "tp6-packaging/tp6-packaging/sentiment_app/cli.py",
+    "bytes": 2254,
+    "sha256": "014786888558960cbce5b3f31e09cf3f487301b0e01729fabdcb7af67d8fa71c"
+  },
+  {
+    "path": "tp6-packaging/tp6-packaging/tests/test_packaging.py",
+    "bytes": 2605,
+    "sha256": "73bb75fe5081f921628bdbd3add3d276ddeb0dc87598c3357f517fda63b7c378"
+  },
+  {
+    "path": "tp6-packaging/tp6-packaging/TP6-ENONCE.md",
+    "bytes": 4260,
+    "sha256": "b5f0e64830a18ddbae06c7956627074639685f30fbff13737848bf6790a88919"
+  }
+]

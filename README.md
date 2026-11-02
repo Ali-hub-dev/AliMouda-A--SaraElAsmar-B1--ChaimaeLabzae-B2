@@ -18,7 +18,25 @@ python scripts/check_setup.py    # diagnostic lisible : versions, dossiers, Git,
 pytest -q                        # les mêmes vérifications, sous forme de tests
 ```
 
-**Au premier lancement, `pytest` affiche `3 failed, 31 passed, 4 skipped` : c'est normal.** Les trois échecs sont les fiches de cadrage encore vides, les quatre tests ignorés attendent que le dépôt Git existe. En fin de TP, la même commande affiche `38 passed`.
+État actuel : TP1–TP6 intégrés. Voir [le bilan vérifié](docs/ETAT-TP1-TP6.md).
+
+Après installation des dépendances :
+
+```bash
+pip install -r requirements-dev.txt
+pip install -e .
+python src/make_demo.py
+python src/train.py
+pytest -q --cov=api --cov-report=term-missing --cov-fail-under=95
+ruff check .
+mypy api
+sentiment --version
+sentiment serve
+# Dans un deuxième terminal :
+sentiment ui
+```
+
+L'interface appelle l'API sur http://127.0.0.1:8000 (variable API_URL). Pour utiliser le modèle ailleurs, définir SENTIMENT_MODELE avec son chemin absolu. Construction : python -m build --wheel.
 
 Les scripts `scripts/setup.sh` (Linux, macOS, Git Bash) et `scripts/setup.ps1` (Windows) font l'installation et le diagnostic en une commande.
 

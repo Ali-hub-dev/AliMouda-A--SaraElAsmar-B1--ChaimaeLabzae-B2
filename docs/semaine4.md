@@ -39,3 +39,10 @@
 - **Parmi les défauts de la partie 2, combien Ruff et Mypy avaient-ils signalés ? Qu'en concluez-vous ?** Parmi les six défauts présentés, **un défaut (l'ordre des imports) a été signalé par Ruff**, tandis qu'aucun n'a été signalé par Mypy. Les autres défauts ont été identifiés par les tests ou l'analyse du comportement du modèle. Nous concluons que l'analyse statique complète les tests fonctionnels, mais ne les remplace pas.
 
 **Vérification finale :** 72 tests réussis, 8 échecs attendus, couverture de 97,50 %, Ruff validé, Mypy validé et hooks pre-commit validés.
+
+
+## Vérification complémentaire du 28/10/2026
+
+Le contrôle initial disponible avant ces compléments était celui du rapport ci-dessus ; il ne constitue pas une nouvelle mesure avant modifications. Les frontières couvrent maintenant les huit corps demandés et vérifient loc/msg/type dans chaque erreur 422. Deux propriétés Hypothesis explorent les chaînes valides et les blancs Unicode. Le démarrage rejette désormais les classes inconnues ; les résultats de prédiction sont typés avec TypedDict/Literal et une table explicite remplace upper().
+
+Suite complète TP1–TP6 : 99 passed, 8 xfailed, aucun failed ni skipped ; couverture API 97,59 % (83 instructions, 2 non couvertes dans le lancement direct Uvicorn). Aucune exclusion de couverture ajoutée. Les huit erreurs attendues sont les limites connues du modèle sur le jeu d'or existant, conservées plutôt que supprimées. Ruff et Mypy passent.
